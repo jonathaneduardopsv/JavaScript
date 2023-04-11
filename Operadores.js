@@ -9,4 +9,4 @@ var n = 3
 n = n + 4
 var num = 8
 num += 2
-num
+console.log(n + num)
