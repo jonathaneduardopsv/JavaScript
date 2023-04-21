@@ -5,7 +5,7 @@ const convidados = [
     { nome: 'Joana', cerveja: false},
     { nome: 'Aline', cerveja: false},
 ];
-
+//variavel recebe os valores de array
 let totalDeConvidados = convidados.length;
 let bebemRefrigerante = 0;
 let bebemCerveja = 0;
